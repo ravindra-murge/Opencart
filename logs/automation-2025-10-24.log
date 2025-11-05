@@ -1,0 +1,6 @@
+23:29:27:165 [main] INFO  testCases.AccountRegistrationTest - ****Starting Testcase AccountRegistration****
+23:29:27:320 [main] INFO  testCases.AccountRegistrationTest - clicked on my account link
+23:29:29:228 [main] INFO  testCases.AccountRegistrationTest - clicked on my register link
+23:29:29:230 [main] INFO  testCases.AccountRegistrationTest - providing customer details
+23:29:31:881 [main] INFO  testCases.AccountRegistrationTest - Validating expected msg
+23:29:31:992 [main] INFO  testCases.AccountRegistrationTest - ****Finished Testcase AccountRegistration****

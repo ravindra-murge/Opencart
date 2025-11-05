@@ -1,0 +1,37 @@
+23:49:40:539 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:49:40:554 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:49:40:580 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:49:40:582 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:49:40:584 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:49:40:627 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:49:40:630 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:49:40:631 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:49:40:720 [main] INFO  testCases.TC003_LoginDDT - ***Starting TC003_LoginDDT Test validation
+23:49:52:812 [main] INFO  testCases.TC003_LoginDDT - *** TC003_LoginDDTTest Finished***
+23:49:52:827 [main] INFO  testCases.TC003_LoginDDT - ***Starting TC003_LoginDDT Test validation
+23:50:05:162 [main] INFO  testCases.TC003_LoginDDT - *** TC003_LoginDDTTest Finished***
+23:50:05:174 [main] INFO  testCases.TC003_LoginDDT - ***Starting TC003_LoginDDT Test validation
+23:50:18:300 [main] INFO  testCases.TC003_LoginDDT - *** TC003_LoginDDTTest Finished***
+23:52:41:405 [main] INFO  testCases.AccountRegistrationTest - ****Starting Testcase AccountRegistration****
+23:52:41:557 [main] INFO  testCases.AccountRegistrationTest - clicked on my account link
+23:52:43:635 [main] INFO  testCases.AccountRegistrationTest - clicked on my register link
+23:52:43:676 [main] INFO  testCases.AccountRegistrationTest - providing customer details
+23:52:46:038 [main] INFO  testCases.AccountRegistrationTest - Validating expected msg
+15:24:56:875 [main] INFO  testCases.AccountRegistrationTest - ****Starting Testcase AccountRegistration****
+15:24:57:169 [main] INFO  testCases.AccountRegistrationTest - clicked on my account link
+15:24:59:444 [main] INFO  testCases.AccountRegistrationTest - clicked on my register link
+15:24:59:465 [main] INFO  testCases.AccountRegistrationTest - providing customer details
+15:25:02:342 [main] INFO  testCases.AccountRegistrationTest - Validating expected msg
+15:26:54:203 [main] INFO  testCases.AccountRegistrationTest - ****Starting Testcase AccountRegistration****
+15:26:54:408 [main] INFO  testCases.AccountRegistrationTest - clicked on my account link
+15:26:56:518 [main] INFO  testCases.AccountRegistrationTest - clicked on my register link
+15:26:56:521 [main] INFO  testCases.AccountRegistrationTest - providing customer details
+15:26:59:521 [main] INFO  testCases.AccountRegistrationTest - Validating expected msg
+18:42:31:539 [main] INFO  testCases.AccountRegistrationTest - ****Starting Testcase AccountRegistration****
+18:42:31:591 [main] ERROR testCases.AccountRegistrationTest - TestFailed...
+18:42:31:591 [main] DEBUG testCases.AccountRegistrationTest - Debug logs...
+18:44:26:695 [main] INFO  testCases.AccountRegistrationTest - ****Starting Testcase AccountRegistration****
+18:44:26:956 [main] INFO  testCases.AccountRegistrationTest - clicked on my account link
+18:44:28:091 [main] INFO  testCases.AccountRegistrationTest - clicked on my register link
+18:44:28:116 [main] INFO  testCases.AccountRegistrationTest - providing customer details
+18:44:30:550 [main] INFO  testCases.AccountRegistrationTest - Validating expected msg
